@@ -128,6 +128,7 @@ _Plugins for Krita_
 - [Better Color Cycler](https://krita-artists.org/t/plugin-better-color-cycler-improved-shortcuts-and-support-for-dial-accessories/64347) -  A Krita plugin with improved shortcuts and support for dial accessories.
 - [ColorPlus](https://krita-artists.org/t/colorplus-a-plugin-to-simulate-watercolor-painting/48685) - A Krita plugin to simulate watercolor painting.
 - [Oughtasave](https://krita-artists.org/t/oughtasave-plugin-an-autosave-replacement/54894) - A Krita plugin that replaces the default autosave feature.
+- [HQ Tools](https://github.com/ricolandia/krita-hq-tools) - Comics production toolkit for Krita: screentones and hatching, balloons, pages, brushes, 3D viewer, perspective, moodboard and production checklist.
 
 ## Textures and patterns
 
